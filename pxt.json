@@ -1,27 +1,27 @@
 {
-    "name": "2cat2curious_v2",
-    "version": "0.0.0",
+    "name": "2cat2curious",
     "description": "",
     "dependencies": {
-        "core": "*",
-        "radio": "*",
-        "microphone": "*"
+        "device": "*",
+        "animation": "*"
     },
     "files": [
-        "README.md",
         "main.blocks",
-        "main.ts"
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
     ],
     "testFiles": [
         "test.ts"
     ],
-    "public": true,
     "targetVersions": {
-        "target": "7.0.51",
-        "targetId": "microbit"
+        "target": "1.12.56",
+        "targetId": "arcade"
     },
     "supportedTargets": [
-        "microbit"
+        "arcade"
     ],
     "preferredEditor": "blocksprj"
 }

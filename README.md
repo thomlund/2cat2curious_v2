@@ -1,24 +1,33 @@
+ 
 
-> Open this page at [https://thomlund.github.io/2cat2curious_v2/](https://thomlund.github.io/2cat2curious_v2/)
+
+> Open this page at [https://itsgauravsaxena.github.io/2cat2curious/](https://itsgauravsaxena.github.io/2cat2curious/)
 
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/thomlund/2cat2curious_v2** and import
+* search for **https://github.com/itsgauravsaxena/2cat2curious** and import
 
-## Edit this project
+## Edit this project ![Build status badge](https://github.com/itsgauravsaxena/2cat2curious/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/thomlund/2cat2curious_v2** and click import
+* paste **https://github.com/itsgauravsaxena/2cat2curious** and click import
+
+## Blocks preview
+
+This image shows the blocks code from the last commit in master.
+This image may take a few minutes to refresh.
+
+![A rendered view of the blocks](https://github.com/itsgauravsaxena/2cat2curious/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
-* for PXT/microbit
+* for PXT/arcade
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
